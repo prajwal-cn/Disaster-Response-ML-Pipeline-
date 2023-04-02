@@ -15,7 +15,7 @@ The code requires Python versions of 3.* and general libraries available through
 ## Project Motivation <a name="motivation"></a>
 While a natural or other disaster is happening, millions of messages will be sent via social media and it is very difficult for disaster relief workers to determine which messages are relevant and where help needs to be sent. This webapp creates an easy-to-use interface that runs on a machine learning model which categorizes new messages into different categories and helps workers determine whether and what help is needed.
 
-![Screenshot of the webapp](app/static/img/webapp.PNG)
+![image](https://user-images.githubusercontent.com/127007794/229332405-712b8942-de55-4537-9a4f-24c1a1f5bebe.png)
 
 ## Instructions <a name="instructions"></a>
 
